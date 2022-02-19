@@ -29,7 +29,7 @@ function Blog() {
                       <div className="Blog__meta absolute">
                          <h5 className="project__text">Development</h5>
                          <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <button className="blog project__btn btn">Read More</button>
                        </div>
                  </div>
               </div>
@@ -45,7 +45,7 @@ function Blog() {
                       <div className="Blog__meta absolute">
                          <h5 className="project__text">Development</h5>
                          <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <button className="blog project__btn btn">Read More</button>
                        </div>
                  </div>
               </div>
@@ -61,7 +61,7 @@ function Blog() {
                       <div className="Blog__meta absolute">
                          <h5 className="project__text">Development</h5>
                          <h4 className="project__text">Getting tickets to the big show</h4>
-                         <a href="#" className="blog project__btn btn">Read More</a>
+                         <button className="blog project__btn btn">Read More</button>
                        </div>
                  </div>
               </div>
