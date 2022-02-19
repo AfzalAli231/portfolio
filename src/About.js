@@ -18,26 +18,13 @@ function About() {
             <h1 className="about__heading">About Me</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
-              </p>
-              <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
-              </p>
-              <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
+                My name is Afzal Ali and I am here to design websites and make them responsive. Started with CSS Grid, Flexbox, ReactJS, Node JS, MongoDB, Express JS and Firebase. I also have plans to make it updated in the future. I have an experience of 2 year in MERN Stack Developer.
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
+                <a href="https://drive.google.com/file/d/1ec6qp1fgyMeeBakiQVfM28APN4l0Bq-O/view?usp=sharing">
                   <button className="about btn pointer">Download Cv</button>
                 </a>
-                <a href="#">
+                <a href="mailto:abroimdad38@gmail.com">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>
